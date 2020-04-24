@@ -10,5 +10,5 @@ index.html - The Index document for the website.
 /css - CSS files for the website.
 
 CloudFront URL - http://cloudevbucket.s3.amazonaws.com/index.html
-
+Screenshots folder included
 
